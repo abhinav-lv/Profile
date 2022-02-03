@@ -1,6 +1,6 @@
 ### Vanakkam! 🙏
 
-I'm Abhinav Lakshminarayanan Veeraragavan (or Abhinav LV) from Chennai, Tamil Nadu, India.
+I'm Abhinav LV from Chennai, Tamil Nadu, India.
 
 I'm studying B.Tech CSE at VIT Vellore.
 
