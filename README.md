@@ -14,7 +14,7 @@ I'm studying B.Tech CSE at VIT Vellore.
   - HTML / CSS
 
 - 👯 I’d like to collaborate on : 
-  - Music, i guess! hmu (I use FL Studio ♫)
+  - Nothing as of now. I lack the skills.
 
 - 📫 Connect with me:
   - https://www.linkedin.com/in/abhinav-lv-717515230/
