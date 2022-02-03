@@ -1,4 +1,4 @@
-### Vanakkam! 🙏
+### 🕉🙏
 
 I'm Abhinav LV from Chennai, Tamil Nadu, India.
 
