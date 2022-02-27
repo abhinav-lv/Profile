@@ -13,12 +13,9 @@ I'm studying B.Tech CSE at VIT Vellore.
   - C++
   - HTML / CSS
 
-- 👯 I’d like to collaborate on : 
-  - Nothing as of now. I lack the skills.
-
 - 📫 Connect with me:
-  - https://www.linkedin.com/in/abhinav-lv-717515230/
-  - https://discordapp.com/users/abhinav_lv#0991/
+  - [LinkedIn] https://www.linkedin.com/in/abhinav-lv-717515230/
+  - [Dsicord] https://discordapp.com/users/abhinav_lv#0991/
 
 - ⚡ Fun fact: 
   - I like drifting and I dream to own a nissan z someday...
